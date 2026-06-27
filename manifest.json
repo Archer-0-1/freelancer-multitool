@@ -6,7 +6,7 @@
     "description": "A mod that adds a multitool to the Freelancer class, allowing them to use it for various tasks.",
     "authors": ["LeadingTiger9"],
     "contentFolders": ["content"],
-    "frameworkVersion": "2.33.34",
+    "frameworkVersion": "2.33.40",
     "thumbs": ["ConsoleCmd OnlineResources_Disable 1"],
     "updateCheck": "https://raw.githubusercontent.com/Archer-0-1/reusable-keycard-plus-multitool/main/updates.json"
 }
