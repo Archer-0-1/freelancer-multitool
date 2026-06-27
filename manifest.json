@@ -8,5 +8,6 @@
     "contentFolders": ["content"],
     "frameworkVersion": "2.33.40",
     "thumbs": ["ConsoleCmd OnlineResources_Disable 1"],
-    "updateCheck": "https://raw.githubusercontent.com/Archer-0-1/reusable-keycard-plus-multitool/main/updates.json"
+    "updateCheck": "https://raw.githubusercontent.com/Archer-0-1/reusable-keycard-plus-multitool/main/updates.json",
+    "requirements": ["LeadingTiger9.ReusableKeyCard"]
 }
