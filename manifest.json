@@ -1,0 +1,12 @@
+{
+    "$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
+    "version": "1.0.0",
+    "id": "LeadingTiger9.FreelancerMultitool",
+    "name": "Freelancer Multitool",
+    "description": "A mod that adds a multitool to the Freelancer class, allowing them to use it for various tasks.",
+    "authors": ["LeadingTiger9"],
+    "contentFolders": ["content"],
+    "frameworkVersion": "2.33.34",
+    "thumbs": ["ConsoleCmd OnlineResources_Disable 1"],
+    "updateCheck": "https://raw.githubusercontent.com/Archer-0-1/reusable-keycard-plus-multitool/main/updates.json"
+}
